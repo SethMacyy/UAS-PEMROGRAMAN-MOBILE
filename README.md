@@ -33,23 +33,26 @@ Pada aplikasi Coffeenak, fitur ini diimplementasikan dengan mendeteksi lokasi pe
 
 
 ## Link Youtube
-[![Splash Screen Project](https://youtu.be/Ggy0j5m2DLw)
+[![Splash Screen Project]https://youtu.be/Ggy0j5m2DLw
 
 ---
 
 ## 2. Wireframe :
 
 
-![wireframe](https://github.com/user-attachments/assets/0a76f620-7d1b-4f34-a8ed-a0453339a457)
+<img width="6401" height="1228" alt="Frame 15" src="https://github.com/user-attachments/assets/32db5ba8-a85a-4211-9bca-229d263249b5" />
+
 
 
 
 ## 3. StoryBoard Project
 Membuat alur cerita/storyboard project.
 
-Berikut adalah rancangan visual alur penggunaan aplikasi KyynAi dalam bentuk komik/cerita:
+Berikut adalah rancangan visual alur penggunaan aplikasi Coffeenak dalam bentuk komik/cerita:
 
-![storyboardingg png](https://github.com/user-attachments/assets/1bef9ae1-9900-412e-ad87-0dbfdeb16511)
+<img width="1536" height="1024" alt="storyboard" src="https://github.com/user-attachments/assets/35d8fcd5-e8c2-42b4-a997-4dcf19a00101" />
+
+
 
 ---
 
@@ -59,17 +62,19 @@ Desain Mockup Project.
 Rancangan kerangka (wireframe/mockup) aplikasi sebelum masuk ke tahap pewarnaan dan coding detail:
 
 
-![ Mockup ](https://github.com/user-attachments/assets/052a1708-be0c-42df-b9bb-a4d135669581)
+<img width="1916" height="1300" alt="mockup" src="https://github.com/user-attachments/assets/3de5d83c-a2ca-416f-9143-1fd287f1c5a7" />
+
 
 ---
 
 ## 5. UI (User Interface) Project
 Hasil akhir tampilan UI Project.
 
-Tampilan antarmuka final aplikasi (High Fidelity) yang mencakup Splash Screen, halaman loading, dan halaman utama Chatbot:
+Tampilan antarmuka final aplikasi (High Fidelity) yang mencakup Splash Screen, halaman loading, dan halaman utama Catalog:
 
 
-![ui](https://github.com/user-attachments/assets/71b6fc22-aa6d-47c4-b54b-eace7c08e7b0)
+<img width="6583" height="1303" alt="Frame 14" src="https://github.com/user-attachments/assets/83ab01ee-e044-4365-aa3c-c0bd7672a15f" />
+
 
 ---
 
@@ -78,12 +83,13 @@ Tampilan antarmuka final aplikasi (High Fidelity) yang mencakup Splash Screen, h
 
 Demonstrasi penggunaan aplikasi KyynAi dapat dilihat melalui video berikut:
 
-![ux](https://github.com/user-attachments/assets/ad3cd22a-ee70-421f-86c1-517e55d2f920)
+
+![Perekaman Layar 2026-01-19 133628](https://github.com/user-attachments/assets/be7597f9-805e-4738-985f-516557c953d4)
 
 
 
 ## Link Youtube :
-[![Video Prototype KyynAi](https://youtu.be/Cy6R3THufEM)
+[![Video Prototype Coffeenak]https://youtu.be/Bi6b-lNeJbI
 
 *(Klik link yt di atas untuk memutar video)*
 
