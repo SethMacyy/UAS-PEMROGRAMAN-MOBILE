@@ -81,7 +81,7 @@ Tampilan antarmuka final aplikasi (High Fidelity) yang mencakup Splash Screen, h
 ## 6. UX (User Experience) VIDEO PROTOTYPE
 **Ketentuan Soal:** Video prototype UX diupload pada Youtube[cite: 17].
 
-Demonstrasi penggunaan aplikasi KyynAi dapat dilihat melalui video berikut:
+Demonstrasi penggunaan aplikasi Coffeenak dapat dilihat melalui video berikut:
 
 
 ![Perekaman Layar 2026-01-19 133628](https://github.com/user-attachments/assets/be7597f9-805e-4738-985f-516557c953d4)
@@ -97,7 +97,8 @@ Demonstrasi penggunaan aplikasi KyynAi dapat dilihat melalui video berikut:
 
 ## 7. Link Repository & ClickUp
 
-<img width="960" height="540" alt="time line" src="https://github.com/user-attachments/assets/ff7b57ea-feca-4caf-a3bd-b7a988105a18" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/61bfeca4-048a-4afc-bd06-2c4024f241ba" />
+
 
 
 ---
