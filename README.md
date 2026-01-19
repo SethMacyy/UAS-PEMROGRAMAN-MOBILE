@@ -16,7 +16,7 @@
 
 Berikut adalah tautan penting terkait pengerjaan dan pengumpulan tugas ini:
 
-* **📄 Link Repository (GitHub):** [Link Repository GitHub](https://github.com/RizkyMaulana-design/UAS-PEMROGRAMAN-MOBILE)
+* **📄 Link Repository (GitHub):** [Link Repository GitHub](https://github.com/SethMacyy/UAS-PEMROGRAMAN-MOBILE)
 * **📅 Link ClickUp (Timeline):** [Link Timeline Project](https://app.clickup.com/90182002125/v/li/901813029359)
 * **🎥 Link Youtube 1 (Splash Screen):** [https://youtu.be/LINK_VIDEO_SPLASH_SCREEN](https://youtu.be/Ggy0j5m2DLw)
 * **🎥 Link Youtube 2 (Full Project):** [https://youtu.be/Cy6R3THufEM](https://youtu.be/Bi6b-lNeJbI)
