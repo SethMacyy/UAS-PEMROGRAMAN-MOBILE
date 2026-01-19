@@ -33,7 +33,7 @@ Pada aplikasi Coffeenak, fitur ini diimplementasikan dengan mendeteksi lokasi pe
 
 
 ## Link Youtube
-[![Splash Screen Project](https://youtube.com/shorts/_F5cSmwJjTA?feature=share)
+[![Splash Screen Project](https://youtu.be/Ggy0j5m2DLw)
 
 ---
 
